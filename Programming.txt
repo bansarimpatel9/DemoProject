@@ -5,3 +5,5 @@ We will Learn
 C
 C++
 JAVA
+.Net
+Python

@@ -8,4 +8,7 @@ JAVA
 .Net
 Python
 
+Angular
+Node
+
 Thankyou!!!!
